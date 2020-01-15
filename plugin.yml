@@ -1,0 +1,7 @@
+name: IMCFlag
+main: net.imyeyu.imcflag.IMCFlag
+version: 1.0
+commands: 
+  flag:
+    usage: /flag
+    description: 创建传送标记
